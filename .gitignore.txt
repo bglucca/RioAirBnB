@@ -1,0 +1,6 @@
+# Unused data (for now)
+data/calendar.csv.gz
+data/listings.csv
+data/neighbourhoods.csv
+data/reviews.csv
+data/reviews.csv.gz
