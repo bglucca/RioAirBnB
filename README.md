@@ -16,16 +16,16 @@ With this motivation in mind the analysis was centered in four questions regardi
 
 ## Result Summary
 
-*Where are the cheapest options located?* 
+*Where are the cheapest options located?*  
 **On the North and Central regions of the city. We can also get results for the 5 cheapest neighbourhoods within each region**  
 
-*Can we pre-segment listings by their characteristics?*
+*Can we pre-segment listings by their characteristics?*  
 **Yes. We can find 8 clusters that arise from the variables that describe a listing using a KModes algorithm**
 
-*Are the location prices and cluster prices associated to market concentration?*
+*Are the location prices and cluster prices associated to market concentration?*  
 **No evidence in the available data was found that indicates that prices are skewed due to concentration, either looking at it geographically, within the clusters or at the whole dataset in general**
 
-*What are usual amenities that the customer should expect from listings in Rio?*
+*What are usual amenities that the customer should expect from listings in Rio?*  
 **A customer should expect: Wifi, a Kitchen, Long term stays permission, Essentials, Hangers, Iron, Hot water, Dishes and silverware, Air conditioning, Elevator as the top-10 most frequent amenities.**  
 **On the other hand, they should expect: Beachfront properties, Private patio or balcony, Gym, Dryer, Window AC unit, Portable fans, Free washer In unit, Security cameras on property, Toasters and BBQ grill as more rare amenities**
 
