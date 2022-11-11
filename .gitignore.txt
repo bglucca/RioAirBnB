@@ -4,3 +4,4 @@ data/listings.csv
 data/neighbourhoods.csv
 data/reviews.csv
 data/reviews.csv.gz
+data/Limite_de_Bairros.shp
