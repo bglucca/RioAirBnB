@@ -49,5 +49,6 @@ With this motivation in mind the analysis was centered in four questions regardi
 
 ## Acknowledgements
 Data sourced from [Inside AirBnb](http://insideairbnb.com/get-the-data/)  
-KModes supporting papers' links can be found in [nicodv's GitHub repo](https://github.com/nicodv/kmodes)  
+KModes supporting papers' links along with the implementation used can be found in [nicodv's GitHub repo](https://github.com/nicodv/kmodes)  
 This project was is a submission for Udacity's Nanodegree Programm for Data Science  
+The article for this project can be found on my [Medium Page](https://medium.com/@luccagomes/making-browsing-airbnb-easier-through-data-science-bf96e2a72e0c)
