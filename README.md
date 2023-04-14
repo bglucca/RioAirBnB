@@ -37,13 +37,16 @@ With this motivation in mind the analysis was centered in four questions regardi
 - **Data Modelling**: [KModes](https://pypi.org/project/kmodes/)
 
 ## Repo Structure
-│   analysis.ipynb  &rarr; Main notebook containing all analysis and modelling  
+
+```
+│   analysis.ipynb -> Main notebook containing all analysis and modelling  
 │
 ├───data
-│       listings.csv.gz &rarr; listing data used  
+│       listings.csv.gz -> listing data used  
 │
 ├───models
-│       clusters.pkl &rarr; A pickle with the final clustering model
+│       clusters.pkl -> A pickle with the final clustering model
+```
 
 ## Acknowledgements
 Data sourced from [Inside AirBnb](http://insideairbnb.com/get-the-data/)  
